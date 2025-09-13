@@ -18,13 +18,6 @@ This project is **resume-ready** and demonstrates skills in **Computer Vision, P
 - Calibration for minimum and maximum thumb-index distance  
 - On-screen UI showing current volume level  
 
----
-
-## Screenshots
-*(Add screenshots of your project here)*  
-
----
-
 ## Installation
 
 ### **Requirements**
@@ -35,6 +28,6 @@ This project is **resume-ready** and demonstrates skills in **Computer Vision, P
 ### **Steps**
 1. Clone the repository:
 
-```bash
+bash
 git clone https://github.com/<USERNAME>/VolumeControl.git
 cd VolumeControl
